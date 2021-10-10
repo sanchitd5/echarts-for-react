@@ -56,8 +56,8 @@
     "cross-env": "^7.0.3",
     "dumi": "^1.1.6",
     "dumi-theme-default": "^1.0.6",
-    "echarts": "^5.0.2",
-    "echarts-gl": "^2.0.2",
+    "echarts": "^5.2.1",
+    "echarts-gl": "^2.0.8",
     "eslint": "^7.20.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-import": "^2.22.1",
@@ -76,7 +76,7 @@
     "rimraf": "^3.0.2",
     "ts-jest": "^26.5.2",
     "ts-loader": "^8.0.17",
-    "typescript": "^4.2.2"
+    "typescript": "^4.4.3"
   },
   "dependencies": {
     "size-sensor": "^1.0.1",
